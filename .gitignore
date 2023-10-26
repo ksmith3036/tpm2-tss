@@ -1,0 +1,13 @@
+openssl/
+
+# Visual C++ files
+ipch/
+x64/*
+Release/*
+Debug/*
+.vs/
+src/*/*.vcxproj.user
+src/*/Release
+src/*/x64
+src/tss2-tcti/*/Release
+src/tss2-tcti/*/Debug
